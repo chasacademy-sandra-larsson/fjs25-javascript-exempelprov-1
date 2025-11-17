@@ -4,4 +4,3 @@
 * Provtid 2.5 h
 * Hjälpmedel: Endast egna anteckningar 
 
-# fjs25-javascript-exempelprov-1
