@@ -1,4 +1,4 @@
-// 10. Shoppingcart med separata priser (3p)
+// 10. Shoppingcart med separata priser
 // Skriv klart funktionen calculateTotalPrice2 som tar en array med produkter
 // och ett objekt med priser som input och returnerar det totala priset
 
@@ -20,6 +20,7 @@ const modelPrices = {
   
   function calculateTotalPrice(shoppingCart, prices) {
     // Din kod här
+
 
   }
   

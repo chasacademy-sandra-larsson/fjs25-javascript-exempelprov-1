@@ -1,17 +1,19 @@
-// 2.1 Hämta todo-data från denna url: https://jsonplaceholder.typicode.com/todos/
-// Skriv ut med html på skärmen titeln på alla todo-objekt som har
-// userId: 1
+// 2. Använd reduce för att räkna ut totala priset för shoppingcarten.
 
-async function getTodos() {
-    // Din kod här
-  }
-  
-  getTodos();
-  
-  // 2.2 Lägg till en done-knapp under varje titel. Om todo-objektet är genomfört,
-  // alltså completed: true, så ska det stå "Undo" på knappen annars "Done"
-  
-  // 2.3 Knappen ska kunna växla mellan "Undo" och "Done" när man trycker på den.
-  // Om det står "Undo" på knappen ska titeln vara genomstruken, alltså i css:
-  // text-decoration: line-through;
-  // Annars ska den inte vara det.
+
+const shoppingCart = [
+  {product: "T-shirt", price: 10},
+  {product: "Trousers", price: 20},
+  {product: "Jacket", price: 30},
+  {product: "Shoes", price: 40},
+  {product: "Hat", price: 50},
+  {product: "Socks", price: 60},
+
+]
+
+
+function calculateTotalPrice(shoppingCart) {
+  // Din kod här
+}
+
+console.log(calculateTotalPrice(shoppingCart)); // Ska logga 210

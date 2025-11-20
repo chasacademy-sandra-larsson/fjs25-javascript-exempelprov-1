@@ -1,4 +1,4 @@
-// 1. Booleans (3p)
+// 1. Booleans 
 // Skriv en funktion howFast som tar en siffra som input och
 // returner följande sträng:
 // "Fast" om siffran är högre eller lika med 100
@@ -7,7 +7,8 @@
 // "Unknown" om inget av ovan stämmer
 
 function howFast(number) {
-    //Din kod här
+    //Din kod här 
+
 
   }
   

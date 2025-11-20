@@ -1,11 +1,12 @@
-// 6. (2p) Skriv klart funktionen addBgColor.
-// addBgColor tar in ett DOM-element och en färg-kod,
+// 6.  Skriv klart funktionen addBgColor.
+// addBgColor tar in ett DOM-element och en färg-kod. Använd <div id="my-element"
 // addBgColor ska uppdatera elementets style med färgkoden.
-// tips: använd elementets style
-const element = document.querySelector("#my-element");
 
-function addBgColor(element, bgColor) {
-  // lägg till din kod här
+
+
+function addBgColor() {
+  // Din kod här:
+  
 }
 
 addBgColor(element, "#ff0000"); // Ska göra elementet rött
